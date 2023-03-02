@@ -1,0 +1,8 @@
+Status: new,
+App": Test,
+Version: Android 2.1,
+Priority: High,
+Severity: Blocker,
+Author: Name and Surname,
+Assigned To: Name,
+Reference: link.
