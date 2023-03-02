@@ -1,0 +1,12 @@
+favorite_movie": "Interstellar",
+	"favorite_series": "Friends",
+	"favorite_food": "croissant",
+	"favorite_season": "summer[A[A[A[A[B[D[D[D[D[3~[3~[D[D[D[D[D[D[D[D[D[D[ -[3~[3~[3~[3~[ [3~-[D[D[D[D[D[D[D[D[D[D[D[D[D[D[F[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CInter[3~[3~[3~stellar   [H[B[A[B[A
+
+
+
+
+[H
+
+
+idfhivhbfv[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[C[C[C[C[C[C[C[C[A[A[A[C[C[C[C[C[C[C[C[C[C[C[B.[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Favorite series - Friends      [B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[DFavorite food - croissant [3~[3~[3~[3~[3~[3~[C[C[C[C[C[C[C[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[DFavorite season - summer [C[C[C[C[C[
